@@ -11,4 +11,3 @@ def calc(n1,n2,op):
         print(f"{n1} / {n2} = {n1/n2}")
     else:
         print("Invalid operation")
-    
